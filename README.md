@@ -39,7 +39,7 @@
 ## 📫 How to reach me
 
 [![GitHub](https://img.shields.io/badge/GitHub-GTM--DEVOPS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GTM-05)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gowtham_K-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/gowtham-k-g-a99845366)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-GTM-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/gowtham-k-g-a99845366)
 [![Email](https://img.shields.io/badge/Email-gtmdevops@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gtmdevops@gmail.com)
 
 ---
